@@ -3,9 +3,9 @@
 /*
 - Aritméticos
 - de Atribuição
-- Relacionais
-- Lógicos
-- Ternário
+- Relacionais (Aula 08)
+- Lógicos (Aula 08)
+- Ternário (Aula 08)
 */
 
 // OPERADORES ARITMÉTICOS
