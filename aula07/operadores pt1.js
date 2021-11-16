@@ -1,3 +1,13 @@
+// TIPOS DE OPERADORES
+
+/*
+- Aritméticos
+- de Atribuição
+- Relacionais
+- Lógicos
+- Ternário
+*/
+
 // OPERADORES ARITMÉTICOS
 
 5 + 2 //-> 7
