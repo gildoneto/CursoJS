@@ -23,7 +23,7 @@
 
 Podemos selecionar/acessar elementos para navegar na Árvore DOM de várias formas.
 
-#### Por Marca(tag):
+#### Por TagName:
 ```HTML
 <p>Aqui vai o resultado</p>
 <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript.</p>
@@ -43,7 +43,7 @@ var d1 = document.getElementById('msg')
 d1.style.background = 'green'
 d1.innerText = 'Estou aguardando...'
 ```
-#### Por Nome:
+#### Por Name:
 ```HTML
 <div name="msg">Clique Aqui</div>
 ```
@@ -51,7 +51,7 @@ d1.innerText = 'Estou aguardando...'
 var d2 = document.getElementsByName('msg')[0]
 d2.innerText = 'Olá!'
 ```
-#### Por Classe:
+#### Por ClassName:
 ```HTML
 <div class="msg">Clique Aqui</div>
 ```
