@@ -14,6 +14,8 @@
 ### Parâmetros de evento em tags HTML
 
 - onclick
+- onmouseenter
+- onmouseout
 
 ### Funções
 
