@@ -2,7 +2,7 @@
 
 ### CONDIÇÕES ANINHADAS
 
-Podemos aninhas várias condicoes, uma dentro da outra.
+Podemos aninhar várias condições, uma dentro da outra.
 
 ```javascript
 if(condição1) {
@@ -47,7 +47,7 @@ switch (expressão) {
     case valor3:
         // caso a expressão tenha valor3, executa esse bloco, bate no break e sai do switch
         break
-    dafault:
+    default:
         // caso a expressão não tenha nenhum dos valores acima, executa esse bloco, bate no break e sai do switch
         break
 }
